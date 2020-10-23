@@ -74,7 +74,9 @@ function buttonAnimation(currentKey) {
     var activeButton = document.querySelector("." + currentKey);
   
     activeButton.classList.add("pressed");
-  
+
+    // timeout function allows pressed class
+    // to be removed after 0.1 seconds
     setTimeout(function() {
       activeButton.classList.remove("pressed");
     }, 100);
