@@ -1,6 +1,6 @@
-# Drum 🥁 Kit
+# 🥁 Drum Kit
 
-Simple digital drumkit that allows the user to play drum sounds when pressing down on corresponding key. Challenge made by The Complete 2020 Web Development Bootcamp by Angela Yu
+Simple digital drumkit that allows the user to play drum sounds when pressing down on corresponding key.
 
 
 ## Deployment
@@ -9,25 +9,27 @@ Deployed Website: https://rosajen27.github.io/drumkit/
 
 ![drum-kit](./images/demo.png)
 
+
 ## Built With
 
-  - HTML
-  - CSS
-  - JavaScript
+  * HTML
+  * CSS
+  * JavaScript
+
 
 ## Authors
 
-  - **Jennifer Rosa**
+  * **Jennifer Rosa**
     [Rosajen27](https://rosajen27.github.io/)
 
 
 ## License
 
-![License](https://img.shields.io/badge/license-MIT%20License-blue.svg)
+![License](https://img.shields.io/badge/license*MIT%20License-blue.svg)
 
 This project is licensed under the MIT License.
 
-Copyright (c) 2020 Jennifer Rosa
+Copyright (c) 2021 Jennifer Rosa
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
