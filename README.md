@@ -1,11 +1,11 @@
 # 🥁 Drum Kit
 
-Simple digital drumkit that allows the user to play drum sounds when pressing down on corresponding key.
+A digital drumkit that allows the user to play drum sounds when pressing down on corresponding key.
 
 
 ## Deployment
 
-Deployed Website: https://rosajen27.github.io/drumkit/
+Demo: https://rosajen27.github.io/drumkit/
 
 ![drum-kit](./images/demo.png)
 
